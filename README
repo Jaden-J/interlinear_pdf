@@ -1,1 +1,3 @@
 Generate a full PDF interlinear Bible from scripture4all.
+
+Requires PDFLaTeX. To build the PDF, simply type 'make'.
